@@ -28,6 +28,25 @@ else:
     print("没有循环数据!")
 print("完成循环!")
 
+print("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-===")
+
+print("break和continue语句及循环中的else子句")
+
+for letter in "Runoob":
+    if letter == 'n':
+        break
+    print(letter)
+print("结束")
+
+
+
+for letter in "Runoob":
+    if letter == 'n':
+        continue
+    print(letter)
+print("结束")
+
+
 
 print("=============================================")
 
