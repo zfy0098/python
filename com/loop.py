@@ -98,6 +98,10 @@ for n in range(2,10):
     else:
         # 循环中没有找到元素
         print(n, ' 是质数')
+		
+		
+		
+print("循环结束")
 
 
 
