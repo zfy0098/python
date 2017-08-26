@@ -6,4 +6,4 @@ class Myclass:
 
 
 x = Myclass();
-print(x.name)
+print(x.name);
